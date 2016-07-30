@@ -35,9 +35,6 @@ alert "The Field: " + rest
 转译为：
 
 ```js
-
-```
-
 wardMedals, contenders, gold, rest, silver,
 	slice = \[].slice;
 
@@ -60,7 +57,4 @@ alert("Gold: " + gold);
 alert("Silver: " + silver);
 
 alert("The Field: " + rest);
-
-```
-
 ```
