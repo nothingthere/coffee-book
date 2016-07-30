@@ -42,7 +42,7 @@ alert "I knew it!" if elvis?
 cubes = (math.cube num for num in list)
 ```
 
-编译为：
+转义为：
 
 ```js
 var cubes, list, math, num, number, opposite, race, square,
