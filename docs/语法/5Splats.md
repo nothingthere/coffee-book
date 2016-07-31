@@ -36,7 +36,7 @@ alert "The Field: " + rest
 
 ```js
 wardMedals, contenders, gold, rest, silver,
-	slice = \[].slice;
+	slice = [].slice;
 
 gold = silver = rest = "unknown";
 
