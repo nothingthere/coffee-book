@@ -1,9 +1,3 @@
 {
-    "language": "zh",
-    "plugins": ["github"],
-    "pluginsConfig": {
-        "github": {
-            "url": "https://github.com/nothingthere/coffee-book"
-        }
-    }
+    "language": "zh"
 }
