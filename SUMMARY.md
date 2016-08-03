@@ -21,3 +21,4 @@
     -   [13胖箭头函数和生成器函数](docs/语法/13胖箭头函数和生成器函数.md)
     -   [14内嵌JavaScript片段](docs/语法/14内嵌JavaScript片段.md)
     -   [15Try语句](docs/语法/15Try语句.md)
+    -   [16字符串](docs/语法/16字符串.md)
