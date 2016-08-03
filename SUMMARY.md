@@ -20,3 +20,4 @@
     -   [12结构赋值](docs/语法/12结构赋值.md)
     -   [13胖箭头函数和生成器函数](docs/语法/13胖箭头函数和生成器函数.md)
     -   [14内嵌JavaScript片段](docs/语法/14内嵌JavaScript片段.md)
+    -   [15Try语句](docs/语法/15Try语句.md)
