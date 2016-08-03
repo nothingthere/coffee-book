@@ -22,3 +22,4 @@
     -   [14内嵌JavaScript片段](docs/语法/14内嵌JavaScript片段.md)
     -   [15Try语句](docs/语法/15Try语句.md)
     -   [16字符串](docs/语法/16字符串.md)
+    -   [17正则表达式](docs/语法/17正则表达式.md)
